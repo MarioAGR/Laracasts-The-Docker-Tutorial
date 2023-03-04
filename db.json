@@ -1,0 +1,17 @@
+{
+    "posts": [
+        {
+            "title": "My Cool Post",
+            "author": "Mario"
+        },
+        {
+            "title": "Another Awesome Post",
+            "author": "Mario"
+        }
+    ],
+    "profile": {
+        "first_name": "Mario",
+        "last_name": "Guillen",
+        "email": "marioagr95@gmail.com"
+    }
+}

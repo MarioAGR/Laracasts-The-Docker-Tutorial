@@ -1,0 +1,17 @@
+{
+    "posts": [
+        {
+            "title": "My Alternative Post",
+            "author": "Mario 2"
+        },
+        {
+            "title": "Another Alternative Post",
+            "author": "Mario 2"
+        }
+    ],
+    "profile": {
+        "first_name": "Mario 2",
+        "last_name": "Guillen 2",
+        "email": "marioagr95+2@gmail.com"
+    }
+}
